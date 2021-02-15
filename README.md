@@ -16,22 +16,22 @@ To use HTML, you need to learn about HTML attributes and Elements. There are hun
     - A block-level element always starts on a new line.
     - A block-level element always takes up the full width available (stretches out to the left and right as far as it can).
     - A block-level element has a top and a bottom margin, whereas an inline part does not.
-	  - Common Block Elements
-      ○ Paragraphs (<P>)
-      ○ Headers (<h1> - <h6>)
-      ○ Division (<div>)
-      ○ Lists and list items (<ol>, <ul>, and <li>)
-      ○ Forms (<forms>)
+    - Common Block Elements
+      	- Paragraphs (<P>)
+      	- Headers (<h1> - <h6>)
+      	- Division (<div>)
+      	- Lists and list items (<ol>, <ul>, and <li>)
+      	- Forms (<forms>)
  
   What are Inline Elements?
-	- An inline element does not start on a new line.
-	- An inline element only takes up as much width as necessary.
-	- Note: An inline element cannot contain a block-level element!
-	- Common inline Elements:
-    - <a>
-    - <span>
-    - <i>
-    - <img>
+     - An inline element does not start on a new line.
+     - An inline element only takes up as much width as necessary.
+     - Note: An inline element cannot contain a block-level element!
+     - Common inline Elements:
+	- <a>
+    	- <span>
+    	- <i>
+    	- <img>
  
  
 What is CSS?
