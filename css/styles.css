@@ -1,0 +1,167 @@
+body{
+    margin: 0;
+    text-align: center;
+    font-family: 'Open Sans', sans-serif;
+    
+    
+}
+
+h1{
+    /*top, right, bottom, left */
+    margin: 50px auto 0 auto;
+    font-family: 'Sacramento', cursive;
+    font-size: 5.625rem;
+    color: #66BFBF;
+    
+
+}
+h2{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2.5rem;
+    color: #66BFBF;
+    font-weight: normal;
+}
+
+h3{
+    font-family: 'Montserrat', sans-serif;
+    color: #11999E;
+}
+
+a{
+    color: #11999E;
+    font-family: 'Montserrat', sans-serif;
+    margin: 10px 20px;
+    text-decoration: none;
+}
+/* the color will change when you hover over the text */
+a:hover{
+    color: #E4F9F5;
+}
+
+hr{
+    border-style: none;
+    border-top-style: dotted;
+    border-width:10px;
+    border-color: grey;
+    height: 0px;
+    width: 5%;
+    
+}
+
+.top-container{
+    background-color: #E4F9F5;
+    position: relative;
+    padding-top: 150px;
+
+   }
+
+.middle-container{
+
+
+}
+
+.bottom-container{
+    background-color: #66BFBF;
+    margin-top: 50px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+
+}
+
+.IT{
+    text-decoration: underline;
+}
+
+.top-cloud{
+    position: absolute;
+    right: 300px;
+    top: 50px;
+    
+}
+
+.bottom-cloud{
+    position: absolute;
+    left: 300px;
+    bottom: 300px;
+    
+}
+
+/* changeing the font wright of A IT professional to normal */
+.pro{
+    font-weight: normal;
+    
+}
+
+.intro{
+    width: 50%;
+    margin: auto;
+}
+
+.skill-row{
+    margin: 100px auto 100px auto;
+    width: 60%;
+    text-align: left;
+   
+
+
+}
+
+.python{
+    width: 20%;
+    /* float property will make the image wrap aroung the text */
+    float: left;
+    /*adding padding between the image and the text */
+    margin-right: 30px;
+    
+}
+.html{
+    width: 20%;
+    float: right;
+    margin-right: 30px;
+    
+}
+.computer{
+    width: 20%;
+    float: left;
+    margin-right: 30px;
+    
+}
+.aws{
+    width: 20%;
+    float: right;
+    margin-right: 30px;
+}
+
+.BUTTON_NCE {
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    border-radius: 20px;
+    color: #EAF6F6;
+    font-family: Helvetica;
+    font-size: 20px;
+    font-weight: 0;
+    padding: 10px;
+    background-color: #66BFBF;
+    text-decoration: none;
+    display: inline-block;
+    cursor: pointer;
+    text-align: center;
+ }
+ 
+ .BUTTON_NCE:hover {
+    background: #99C624;
+    border: solid #99C624 1px;
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    border-radius: 20px;
+    text-decoration: none;
+ }
+
+.profile-image{
+    width: 15%;
+}
+.copy-write{
+    color: #EAF6F6;
+    font-size: 10px;
+    padding: 20px 0;
+}
