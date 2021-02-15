@@ -1,7 +1,7 @@
 # CSS-Style-site
 100daysofcode-day-70_71_72_73
 
-As part of my 100 days of coding challenge, I spent this week learning HTML and CSS basics this week.
+As part of my 100 days of coding challenge, I spent this week learning HTML and CSS basics.
 
 The end of the day project was to use HTML and CSS to build a personal portfolio site. I used HTML and CSS to create a very basic site that shows my basic understanding of HTML and CSS.
 
